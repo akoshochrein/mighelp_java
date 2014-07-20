@@ -1,2 +1,4 @@
-mighelp_java
+MigHelp Java Introduction Class Codebase
 ============
+
+This repository was created to give aid to the student of the MigHelp Community who are interested in learning Java programming. 
